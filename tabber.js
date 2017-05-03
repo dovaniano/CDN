@@ -521,6 +521,3 @@ if (typeof tabberOptions == &#39;undefined&#39;) {
   }
 
 }
-
-
-</script>
